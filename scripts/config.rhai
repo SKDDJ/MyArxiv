@@ -1,8 +1,11 @@
 let titles_type = ["Dataset", "Survey"];
 let titles_model = ["GPT", "Transformer", "Diffusion"];
 let titles_method = [
-    "Parameter-Efficient Fine-Tuning (PEFT)",
+    "Parameter-Efficient Fine-Tuning",
+    "PEFT",
     "Low-rank Adaptation",
+    "Low-Rank Adaptation",
+    "LoRA",
     "Dataset Distillation",
     "Schrodinger Bridge",
     "Diffusion"
