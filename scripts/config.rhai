@@ -4,7 +4,7 @@ let titles_method = [
     "Parameter-Efficient Fine-Tuning (PEFT)",
     "Low-rank Adaptation",
     "Dataset Distillation",
-    "Schrodinger Bridge"
+    "Schrodinger Bridge",
     "Diffusion"
 ];
 let titles = titles_model + titles_method + titles_type;
