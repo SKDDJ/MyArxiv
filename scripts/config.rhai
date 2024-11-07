@@ -1,7 +1,13 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
-let titles =  titles_model + titles_method + titles_type;
+let titles_type = ["Dataset", "Survey"];
+let titles_model = ["GPT", "Transformer", "Diffusion"];
+let titles_method = [
+    "Parameter-Efficient Fine-Tuning (PEFT)",
+    "Low-rank Adaptation",
+    "Dataset Distillation",
+    "Schrodinger Bridge"
+    "Diffusion"
+];
+let titles = titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
