@@ -8,7 +8,7 @@ let titles_method = [
     "Diffusion"
 ];
 let titles = titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Jun Zhu"];
 
 let conferences = [
     // AI
